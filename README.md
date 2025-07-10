@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Seasoned Web Developer with 9+ years of comprehensive experience in modern JavaScript frameworks, specializing in Angular and React ecosystems. Expert in building scalable, responsive web
+applications using TypeScript, HTML5, and CSS3. Proven expertise in micro-frontend architecture, performance optimization, and component-based application design. Skilled in implementing reactive
+programming patterns with RxJS, comprehensive testing strategies with Karma/Jasmine and Jest frameworks. Meta-certified React developer with expertise in development and deployment of enterprise-grade
+web applications.
+
 <!--
 **sumit-ingole/sumit-ingole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
